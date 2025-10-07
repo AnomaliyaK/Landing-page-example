@@ -1,0 +1,21 @@
+.main {
+  background-color: bisque;
+  padding: 80px 0;
+}
+
+.main-title {
+  text-align: center;
+  font-size: 46px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+.main-text {
+  width: 500px;
+}
+
+/* .line {
+  width: 64px;
+  height: 2px;
+  background-color: red;
+  margin: 0 auto 40px;
+} */

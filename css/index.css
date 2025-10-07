@@ -1,0 +1,37 @@
+@import url('../css/cdn.css');
+@import url('../css/header.css');
+@import url('../css/main.css');
+@import url('../css/portfolio.css');
+@import url('../css/footer.css');
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  color: rgb(82, 79, 79);
+}
+
+html {
+  font-family: 'Montserrat', 'Poppins', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100, 300, 400, 600, 700, 900;
+  font-style: normal;
+}
+
+.container {
+  max-width: 1170px;
+  margin: auto;
+  padding: 0 15px;
+}
+.wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  text-transform: uppercase;
+  font-style: 36px;
+  margin-bottom: 60px;
+  text-align: center;
+}

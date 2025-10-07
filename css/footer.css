@@ -1,0 +1,11 @@
+#title {
+  color: coral;
+  text-align: right;
+  margin-bottom: 30px;
+  font-family: 'Poppins';
+  font-weight: 700;
+}
+.footer {
+  background-color: bisque;
+  padding: 20px 0;
+}
